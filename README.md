@@ -2,7 +2,7 @@
 
 ### 🚀 Product Designer | Code Enthusiast
 
-Former architect turned product designer, blending design with creativity to craft intuitive digital experiences. Passionate about **data-driven design, AI, and product growth**.
+Former architect turned product designer, blending design with code to craft intuitive digital experiences. Passionate about **data-driven design, AI, and product growth**.
 
 ### 🔨 What I Do
 
