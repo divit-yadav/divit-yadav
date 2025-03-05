@@ -2,13 +2,13 @@
 
 ### 🚀 Product Designer | Code Enthusiast
 
-Former architect turned product designer, blending design with code to craft intuitive digital experiences. Passionate about **data-driven design, AI, and product growth**.
+Former architect turned product designer, blending design with code to create highly functional and usable products. Passionate about **data-driven design, AI, and product growth**.
 
 ### 🔨 What I Do
 
-- **Product Design & Strategy** – I build products that are not just visually stunning but also backed by market research and user insights.
-- **UX/UI & Framer Web Design** – Expertise in Framer, Figma, and design systems.
-- **Code & Prototyping** – Exploring the intersection of design and development with **HTML5, CSS, React, and JS**.
+- **Product Design & Strategy** – I build products that are visually stunning, backed by market research and supported by user insights.
+- **UX/UI & Framer Web Design** – Experienced in Framer development, Figma, and design systems.
+- **Code & Prototyping** – Exploring design driven development with **HTML5, CSS, React, and JS**.
 
 ### 🛠 Tools & Tech
 - **Design:** Figma, Framer, Adobe Suite
