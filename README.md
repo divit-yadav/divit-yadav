@@ -13,6 +13,6 @@ Former architect turned product designer, blending design with code to create hi
 ### 🛠 Tools & Tech
 - **Design:** Figma, Framer, Adobe Suite
 - **Dev:** HTML, CSS, JavaScript, React
-- **Other:** Agile, Product Strategy, UX Research
+- **Other:** Agile (Lean UX), Product Strategy, UX Research
 
 Always open to connecting, discussing ideas, and learning more about 0-1 product execution.
